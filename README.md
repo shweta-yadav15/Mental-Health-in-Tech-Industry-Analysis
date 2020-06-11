@@ -36,3 +36,6 @@ This project analyses the current trends and attitude of the employers towards t
 - Kaggle
 - StackOverflow
 - osmihelp.org
+
+
+**Link to the blog post: https://medium.com/@shwets1503/your-workplace-is-affecting-your-mental-health-1f99454e7641**
