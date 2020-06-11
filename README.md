@@ -10,12 +10,12 @@
 
 ## Project Motivation
 Mental health issues are on rise all over the world. Since we spend most of our day at our workplace, it is a key location for the improvement of the well-being of adults. The wellness programs at the workplace can identify those at risk and connect them to treatment and put in place supports to help people reduce and manage stress. 
-This project analyses the current trends and attitude of the employers towards the mental health. It also presents a classifier model to identify how likely it is that an employee will seek the treatment for the menatl health issues.
+This project analyses the current trends and attitude of the employers towards the mental health. It also presents the classifier models to identify how likely it is that an employee will seek the treatment for the mental health issues.
 
 ## Files in the repository
 - Data Files: 
     - survey.csv: Main survey dataset file for year 2014
-    - clean_data.csv: File after the preprocessing 
+    - clean_data.csv: File after preprocessing 
     - data_for_modelling.csv: File after encoding the categorical variables
 - Notebooks:
     - Data_Exploration/Preprocessing.ipynb: Initial exploration and cleaning
